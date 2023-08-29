@@ -18,17 +18,18 @@ Key goals and features of the framework include:
 6. Performance and Scalability: The framework will strive to deliver high performance and scalability, ensuring that web applications built with it can handle increased traffic and user demands effectively.
 
 7. Documentation and Community Support: The framework will provide thorough and comprehensive documentation, along with an active and supportive community to assist developers in understanding and utilizing its features effectively.
+8. Virtual DOM
 
-By creating a Python framework that combines the functionalities of both backend and frontend development, We aims to simplify the development process, reduce the reliance on external tools, and provide a seamless and cohesive environment for building web applications.
+By creating a Python framework that combines the functionalities of both backend and frontend development, We aim to simplify the development process, reduce the reliance on external tools, and provide a seamless and cohesive environment for building web applications.
 
 ## Road Map
 
 **Short-term goals:**
 
-* **Release a first version of the framework that supports basic frontend and backend functionality.**
+* **Release the first version of the framework that supports basic frontend and backend functionality.**
 * **Create a community around the framework and start building a user base.**
 * **Gather feedback from users and improve the framework based on their feedback.**
-* **Release the framework as an open source project.**
+* **Release the framework as an open-source project.**
 
 
 **Long-term goals:**
